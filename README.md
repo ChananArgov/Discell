@@ -27,6 +27,13 @@ Discell is a ML-based approach aim to illuminate the cellular basis of hereditar
     <td>The input is list of relevant genes</td>
   </tr>
   <tr>
+    <td>Investigate model predictions Autism.py</td>
+    <td>Analysis Script</td>
+    <td>ASD model further validation</td>
+    <td>Fig. 2F</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Slim_model_Performance_Plot.ipynb</td>
     <td>Analysis Script</td>
     <td>Multi-cellular model ROC-AUC, PR-AUC plot</td>
