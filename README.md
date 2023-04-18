@@ -3,8 +3,7 @@ Discell is a ML-based approach aim to illuminate the cellular basis of hereditar
 
 <img src="Concept Figure.png" alt="Concept Figure">
 
-<h2>Analysis scripts</h2>
-
+<h2>Code</h2>
 <table>
   <tr>
     <th>Script name</th>
@@ -19,19 +18,13 @@ Discell is a ML-based approach aim to illuminate the cellular basis of hereditar
     <td>Multi-cellular model train, evaluation and explanation</td>
     <td>Fig. 3C</td>
     <td></td>
-
-
   </tr>
   <tr>
     <td></td>
     <td></td>
     <td></td>
     <td></td>
-
-  </tr>
-  
-    <td></td>
-  </tr>
+  </tr>  
 </table>
 
 </body>
