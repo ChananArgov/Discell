@@ -48,6 +48,13 @@ Discell is a ML-based approach aim to illuminate the cellular basis of hereditar
     <td></td>
   </tr>
   <tr>
+    <td>ML_Disease_Predictor_OMIM Slim Z score_Matrix.py</td>
+    <td>Comparision</td>
+    <td>Compare the multi-cellular model performance to the preferential based approach</td>
+    <td>Fig. 3D</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Diseases_Predictions_Heatmap_Slim.py</td>
     <td>Analysis Script</td>
     <td>Disease probabilities heatmap plot</td>
