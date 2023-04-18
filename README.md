@@ -26,8 +26,14 @@ Discell is a ML-based approach aim to illuminate the cellular basis of hereditar
     <td>Fig. 2B-E</td>
     <td></td>
   </tr>  
+    <tr>
+    <td>Create_Query_Dataset_Server.py</td>
+    <td>ML scripts\One Disease Model\Create_Query_Dataset_Server.py</td>
+    <td>Creates the training dataset for the disease specific ML model</td>
+    <td></td>
+    <td>The input is list of relevant genes</td>
+  </tr>  
 </table>
-
 </body>
 </html>
 
