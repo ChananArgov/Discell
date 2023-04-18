@@ -40,6 +40,20 @@ Discell is a ML-based approach aim to illuminate the cellular basis of hereditar
     <td>Fig. 3B</td>
     <td>Based on Table S4</td>
   </tr> 
+  <tr>
+    <td>Predict_One_Disease_Based_on_Others_Slim.py</td>
+    <td>ML scripts/Multi Cellular Model</td>
+    <td>Leave one disease out cross validation</td>
+    <td>Refers to Fig. 5</td>
+    <td>/td>
+  </tr>
+    <tr>
+    <td>  Predict_One_Disease_Probabilities_Plot_Slim.py</td>
+    <td>Analysis Script</td>
+    <td>Disease genes probability across cell type boxplot</td>
+    <td>Fig. 5A</td>
+    <td>/td>
+  </tr> 
 </table>
 </body>
 </html>
