@@ -3,6 +3,9 @@ Discell is a ML-based approach aim to illuminate the cellular basis of hereditar
 
 <img src="Concept Figure.png" alt="Concept Figure">
 
+# Dataset
+The dataset contains Discell features and gene labels per cell type, can be found [here](https://zenodo.org/record/5769155#.Yh9sEOhBwuU](https://zenodo.org/deposit/5769155).
+
 <h2>Code</h2>
 <table>
   <tr>
