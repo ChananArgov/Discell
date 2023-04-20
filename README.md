@@ -20,14 +20,14 @@ Discell requires python 3.8 and the following packages: sklearn, pandas, ast, ma
   </tr>
   <tr>
     <td>Query_Specific_ML_Training_Server.py</td>
-    <td>ML scripts/One Disease Model/Query_Specific_ML_Training_Server.py</td>
+    <td>ML scripts/One Disease Model</td>
     <td>Disease specific ML model train, evaluation and explanation</td>
     <td>Fig. 2B-E</td>
     <td></td>
   </tr>  
   <tr>
     <td>Create_Query_Dataset_Server.py</td>
-    <td>ML scripts\One Disease Model\Create_Query_Dataset_Server.py</td>
+    <td>ML scripts\One Disease Model</td>
     <td>Creates the training dataset for the disease specific ML model</td>
     <td></td>
     <td>The input is list of relevant genes</td>
